@@ -1,4 +1,4 @@
-name: CI Pipeline & Deploy to AWS EC2
+name: CI Pipeline
 
 on:
   push:
